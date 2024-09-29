@@ -1,0 +1,51 @@
+OBJECTID,AQI,Category,ResponsiblePollutant,PollenCount,PollenType,PollenDescription,ReportDateTime
+845,36.0,Good,Ozone 8-hr,8.0,Birch, Mulberry,2014/04/16 05:00:00+00
+6445,91.0,Moderate,PM2.5,1.0,Ragweed,Slight,2002/09/18 05:00:00+00
+24,46.0,Good,Ozone 8-hr,3.0,Grass,Slight,2016/06/30 05:00:00+00
+4247,37.0,Good,PM2.5,0.0,Ragweed,Slight,2019/10/30 05:00:00+00
+142,41.0,Good,PM2.5,3.0,Alder, Maple,2016/03/11 06:00:00+00
+2341,50.0,Good,PM2.5,2.0,Elm, Grass,2023/10/06 05:00:00+00
+2100,50.0,Good,PM2.5,6.0,Grass, Juniper,2024/05/29 05:00:00+00
+3699,36.0,Good,PM2.5,8.0,Birch, Maple,2021/04/30 05:00:00+00
+5162,50.0,Good,Ozone 8-hr,11.0,Grass, Ragweed,2010/10/01 05:00:00+00
+6780,39.0,Good,PM2.5,37.0,Elm, Maple,2002/04/11 05:00:00+00
+7874,41.0,Good,Ozone 8-hr,69.0,Cedar, Elm,2008/03/03 06:00:00+00
+5329,41.0,Good,PM2.5,68.0,Cedar, Grass,2010/04/21 05:00:00+00
+4921,36.0,Good,PM2.5,9.0,Grass, Oak,2011/05/23 05:00:00+00
+8054,36.0,Good,Ozone 8-hr,7.0,Grass, Ragweed,2007/09/17 05:00:00+00
+3503,63.0,Moderate,PM2.5,1.0,Ragweed,Slight,2021/11/10 06:00:00+00
+2867,48.0,Good,Ozone 8-hr,7.0,Birch, Maple,2022/05/04 05:00:00+00
+8461,89.0,Moderate,PM2.5,2.0,Grass, Ragweed,2006/08/18 05:00:00+00
+5321,26.0,Good,Ozone 8-hr,9.0,Cedar, Grass,2010/04/28 05:00:00+00
+1604,62.0,Moderate,PM2.5,5.0,Grass,Slight,2017/08/11 05:00:00+00
+5929,49.0,Good,PM2.5,5.0,Grass, Ragweed,2008/09/19 05:00:00+00
+3707,42.0,Good,PM2.5,8.0,Birch, Mulberry,2021/04/22 05:00:00+00
+2373,51.0,Moderate,Ozone 8-hr,11.0,Grass, Ragweed,2023/09/05 05:00:00+00
+3740,34.0,Good,Ozone 8-hr,7.0,Juniper, Maple,2021/03/20 05:00:00+00
+4098,44.0,Good,Ozone 8-hr,11.0,Elm, Juniper,2020/03/27 05:00:00+00
+2003,48.0,Good,Ozone 8-hr,11.0,Grass, Ragweed,2024/09/03 05:00:00+00
+3756,53.0,Moderate,PM2.5,4.0,Alder, Juniper,2021/03/04 06:00:00+00
+3030,30.0,Good,PM2.5,0.0,Ragweed,Slight,2013/10/17 05:00:00+00
+1739,47.0,Good,Ozone 8-hr,10.0,Elm, Juniper,2017/04/05 05:00:00+00
+7301,26.0,Good,Ozone 8-hr,5.0,Elm,Slight,2001/03/27 06:00:00+00
+5208,36.0,Good,Ozone 8-hr,5.0,Grass,Slight,2010/08/17 05:00:00+00
+2047,51.0,Moderate,PM2.5,3.0,Grass, Ragweed,2024/07/20 05:00:00+00
+7003,51.0,Moderate,PM2.5,1.0,Ragweed,Slight,2001/10/25 05:00:00+00
+72,32.0,Good,Ozone 8-hr,7.0,Hickory, Sweet Gum,2016/05/15 05:00:00+00
+2348,50.0,Good,Ozone 8-hr,6.0,Elm, Grass,2023/09/29 05:00:00+00
+3749,66.0,Moderate,PM2.5,5.0,Alder, Juniper,2021/03/11 06:00:00+00
+34,50.0,Good,Ozone 8-hr,4.0,Grass, Poplar,2016/06/20 05:00:00+00
+5315,42.0,Good,Ozone 8-hr,13.0,Maple, Oak,2010/05/04 05:00:00+00
+8065,93.0,Moderate,PM2.5,13.0,Grass, Ragweed,2007/09/07 05:00:00+00
+9,30.0,Good,Ozone 8-hr,2.0,Grass,Slight,2016/07/15 05:00:00+00
+1945,61.0,Moderate,Ozone 8-hr,9.0,Grass, Ragweed,2016/09/16 05:00:00+00
+7303,28.0,Good,Ozone 8-hr,16.0,Elm,Heavy,2001/03/26 06:00:00+00
+3943,20.0,Good,Ozone 8-hr,10.0,Grass, Ragweed,2020/08/29 05:00:00+00
+2486,49.0,Good,Ozone 8-hr,5.0,Hickory, Sweet Gum,2023/05/15 05:00:00+00
+158,27.0,Good,PM2.5,0.0,Alder, Maple,2016/02/24 06:00:00+00
+1716,58.0,Moderate,Ozone 8-hr,6.0,Juniper, Maple,2017/04/27 05:00:00+00
+2324,44.0,Good,Ozone 8-hr,2.0,Ragweed,Slight,2023/10/22 05:00:00+00
+469,36.0,Good,Ozone 8-hr,9.0,Birch, Mulberry,2015/04/23 05:00:00+00
+4007,71.0,Moderate,Ozone 8-hr,3.0,Grass,Slight,2020/06/26 05:00:00+00
+2696,37.0,Good,Ozone 8-hr,2.0,Ragweed,Slight,2022/10/20 05:00:00+00
+4918,57.0,Moderate,PM2.5,2.0,Grass, Oak,2011/05/26 05:00:00+00
